@@ -1,4 +1,4 @@
-# 🚀 Network Payload & Preview Stitcher
+# 🚀 Payload Preview Devtools
 
 A lightweight Chrome DevTools extension that captures API request payloads and response previews in a single unified view, enabling developers, QA engineers, and support teams to document, debug, and analyze network traffic more efficiently.
 
@@ -8,7 +8,7 @@ A lightweight Chrome DevTools extension that captures API request payloads and r
 
 Modern web applications rely heavily on APIs. During debugging, testing, or documentation, engineers often need to inspect both the request payload and the corresponding response. Chrome DevTools provides this information, but it is separated across multiple tabs, making side-by-side inspection and screenshot-based reporting cumbersome.
 
-**Network Payload & Preview Stitcher** solves this problem by introducing a dedicated DevTools panel that automatically displays:
+**Payload Preview Devtools** solves this problem by introducing a dedicated DevTools panel that automatically displays:
 
 * 📤 Request Payload
 * 📥 Response Preview
