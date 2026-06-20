@@ -1,0 +1,10 @@
+{
+  "name": "Network Payload + Preview Stitcher",
+  "version": "1.0",
+  "manifest_version": 3,
+  "description": "View request payload and response preview together on one screen.",
+  "permissions": [
+    "activeTab"
+  ],
+  "devtools_page": "devtools.html"
+}
